@@ -107,6 +107,9 @@ If you need to develop an app that users will love - just let me know!
 <a href="https://github.com/vvvirani/flutter_widgets">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_widgets&hide_border=true&theme=radical" />
 </a>
+<a href="https://github.com/vvvirani/flutter_utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_utils&hide_border=true&theme=radical" />
+</a>
 </p>
 
 ### 📋 Projects :
