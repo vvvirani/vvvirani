@@ -14,7 +14,11 @@ const vvvirani = {
     "Material UI",
   ],
   database: ["Firebase"],
-  text_editor_software_or_code:["Android Studio", "Visual Studio Code", "Xcode"]
+  text_editor_software_or_code: [
+    "Android Studio",
+    "Visual Studio Code",
+    "Xcode",
+  ],
 };
 ```
 
@@ -62,7 +66,7 @@ If you need to develop an app that users will love - just let me know!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Vishal.Virani.370) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vvvirani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvvirani)
 
-###  💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
@@ -134,9 +138,9 @@ If you need to develop an app that users will love - just let me know!
 
    - Play Store : [https://play.google.com/store/apps/details?id=app.feeder](https://play.google.com/store/apps/details?id=app.feeder)
 
-3. Clairifi
-   - Play Store : [https://play.google.com/store/apps/details?id=com.clairifi.clairifi](https://play.google.com/store/apps/details?id=com.clairifi.clairifi)
-   - Apple Store : [https://apps.apple.com/bh/app/clairifi-femp-ldar/id1582439082](https://apps.apple.com/bh/app/clairifi-femp-ldar/id1582439082)
+3. Ask Bob
+   - Play Store : [https://play.google.com/store/apps/details?id=com.askbob.askbob](https://play.google.com/store/apps/details?id=com.askbob.askbob)
+   - Apple Store : [https://apps.apple.com/us/app/ask-bob/id1669654176](https://apps.apple.com/us/app/ask-bob/id1669654176)
 
 ---
 
