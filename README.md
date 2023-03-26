@@ -105,6 +105,9 @@ If you need to develop an app that users will love - just let me know!
 <a href="https://github.com/vvvirani/flutter_amazon_payfort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_amazon_payfort&hide_border=true&theme=radical" />
 </a>
+<a href="https://github.com/vvvirani/audio_trimmer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=audio_trimmer&hide_border=true&theme=radical" />
+</a>
 <a href="https://github.com/vvvirani/flutter_ok_http_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_ok_http_client&hide_border=true&theme=radical" />
 </a>
@@ -125,7 +128,11 @@ If you need to develop an app that users will love - just let me know!
    - Phyllo Connect is a quick and secure way to connect work platforms via Phyllo in your app. Supports: iOS, Android.
 
 2. `amazon_payfort` [Visit](https://pub.dev/packages/amazon_payfort)
+
    - Amazon Payment Services is the new name for Payfort. Flutter amazon_payfort plugin for Amazon Payment Services (Payfort). It supports both android and iOS.
+
+3. `flutter_audio_trimmer` [Visit](https://pub.dev/packages/flutter_audio_trimmer)
+   - Trimming an audio file means cutting a portion of the audio from the beginning or end of the file or removing some part from the middle.
 
 **Application**
 
@@ -139,8 +146,13 @@ If you need to develop an app that users will love - just let me know!
    - Play Store : [https://play.google.com/store/apps/details?id=app.feeder](https://play.google.com/store/apps/details?id=app.feeder)
 
 3. Ask Bob
+
    - Play Store : [https://play.google.com/store/apps/details?id=com.askbob.askbob](https://play.google.com/store/apps/details?id=com.askbob.askbob)
    - Apple Store : [https://apps.apple.com/us/app/ask-bob/id1669654176](https://apps.apple.com/us/app/ask-bob/id1669654176)
+
+4. AdScope
+   - Play Store : [https://play.google.com/store/apps/details?id=com.adscope](https://play.google.com/store/apps/details?id=com.adscope)
+   - Apple Store : [https://apps.apple.com/in/app/adscope-app/id1625457823](https://apps.apple.com/in/app/adscope-app/id1625457823)
 
 ---
 
