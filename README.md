@@ -37,7 +37,7 @@ const vvvirani = {
 - 🚀 Elevate the underrepresented
 
 
-I'm an accomplished professional with over three years of dedicated experience in cross-platform development using **Flutter**. My expertise lies in harnessing state management tools like **Provider**, **Bloc**, **Riverpod**, and **Getx** packages to create seamless user experiences. Additionally, I've demonstrated proficiency in building plugins and packages in native languages.
+I'm an accomplished professional with over more than 3 years of dedicated experience in cross-platform development using **Flutter**. My expertise lies in harnessing state management tools like **Provider**, **Bloc**, **Riverpod**, and **Getx** packages to create seamless user experiences. Additionally, I've demonstrated proficiency in building plugins and packages in Native Languages (**Kotlin** and **Swift**).
 
 Throughout my career, I've successfully delivered a diverse range of applications, catering to the specific needs of my business clients. Not only have I met their high standards, but I've also developed my own products, showcasing my commitment to innovation.
 
