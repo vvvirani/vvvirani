@@ -36,31 +36,29 @@ const vvvirani = {
 - 🍏 Beginner's mindset and curiosity<br>
 - 🚀 Elevate the underrepresented
 
-I am a dedicated professional with 3+ years of experience in cross-platform technology **Flutter**. I am an expert in the use of **Provider**, **Bloc**, **Riverpod**, and **GetX** packages for State Management. Also, I have to build Plugins and Packages in **Native languages**.
 
-Over the years, I developed a wide range of apps and served my business clients with high-quality and satisfying solutions, also making my product too.
+I'm an accomplished professional with over three years of dedicated experience in cross-platform development using **Flutter**. My expertise lies in harnessing state management tools like **Provider**, **Bloc**, **Riverpod**, and **Getx** packages to create seamless user experiences. Additionally, I've demonstrated proficiency in building plugins and packages in native languages.
 
-The main focus goal is to maintain client and customer satisfaction.
+Throughout my career, I've successfully delivered a diverse range of applications, catering to the specific needs of my business clients. Not only have I met their high standards, but I've also developed my own products, showcasing my commitment to innovation.
 
-**Expertise Skills**
+My primary objective is to ensure client and customer satisfaction, which has been the driving force behind my work. Here's a snapshot of my skills:
 
-- Method and Event Channel handle for Plugin
-- Database Synchronisation(Custom Back-End Sync, iCloud Sync)
-- JSON based Rest APIs (3rd party APIs and custom back-end APIs)
-- Local data storage with Core Data, FileManager, and UserDefaults
-- Integration with Google Maps, Core Location (GPS), Google API
-- Core Animations
-- Backend handling with Firebase
-- Localisation for multi-language support to an app
-- Multi theme support for an app
-- QR and Barcode scanning and creation
-- Social Network Integration for login (Facebook, Google+, Youtube, Apple, Instagram, etc.)
-- Payment Integration (Razorpay, Stripe, Amazon Payfort, Apply Pay, Google Pay, PayTM, Paypal, etc.)
-- Ad Network and Analytics Integration (AdMob, AppLovin, AdColony, Facebook, StartApp, Firebase
-  Crashlytics, Firebase Analytics, etc.)
-- Crypto Currency (BTC, ETH, etc.)
+- Proficient in MethodChannel and EventChannel handling for plugin development
+- Expertise in database synchronization, including custom back-end sync and iCloud sync
+- Extensive experience with JSON-based REST APIs, encompassing both 3rd party and custom back-end APIs
+- Adept at local data storage utilizing Core Data, FileManager, and UserDefaults
+- Integration prowess with mapping technologies such as Google Maps and Core Location (GPS), as well as various Google APIs
+- Comprehensive knowledge of core animations for enhanced user experiences
+- Backend proficiency with Firebase, ensuring robust application functionality
+- Multilingual support through localization implementation
+- Capability to provide multi-theme support, customizing the app's look and feel
+- Specialized in QR and barcode scanning and generation
+- Seamless integration with various social networks for streamlined user authentication (Facebook, Google, Youtube, Apple, Instagram, Likedin, Twitter etc.)
+- Expertise in payment integration, encompassing platforms like Razorpay, Stripe, Amazon Payfort, Apply Pay, Google Pay, PayTM, Paypal, Moyasar etc.
+- Proficient in incorporating ad networks and analytics solutions (AdMob, AppLovin, AdColony, Facebook, StartApp, Firebase Crashlytics, Firebase   Analytics, etc.)
+- Familiarity with cryptocurrency functionalities, including BTC and ETH
 
-If you need to develop an app that users will love - just let me know!
+If you're looking to develop an app that truly resonates with users, I'm here to bring your vision to life. Feel free to reach out, and let's create something exceptional!
 
 ### 🌐 Socials :
 
