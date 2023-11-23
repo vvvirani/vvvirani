@@ -78,41 +78,4 @@
 </a> -->
 </p>
 
-### 📋 Projects :
-
-**Packages & Plugins**
-
-1. `phyllo_connect` [Visit](https://pub.dev/packages/phyllo_connect)
-
-   - Phyllo Connect is a quick and secure way to connect work platforms via Phyllo in your app. Supports: iOS, Android.
-
-2. `amazon_payfort` [Visit](https://pub.dev/packages/amazon_payfort)
-
-   - Amazon Payment Services is the new name for Payfort. Flutter amazon_payfort plugin for Amazon Payment Services (Payfort). It supports both android and iOS.
-
-3. `flutter_audio_trimmer` [Visit](https://pub.dev/packages/flutter_audio_trimmer)
-   - Trimming an audio file means cutting a portion of the audio from the beginning or end of the file or removing some part from the middle.
-
-**Application**
-
-1. MindMix
-
-   - Play Store : [https://play.google.com/store/apps/details?id=com.mindmixsocialjournal.app](https://play.google.com/store/apps/details?id=com.mindmixsocialjournal.app)
-   - Apple Store : [https://apps.apple.com/us/app/mindmix-social-journal/id1601025363](https://apps.apple.com/us/app/mindmix-social-journal/id1601025363)
-
-2. Feeder
-
-   - Play Store : [https://play.google.com/store/apps/details?id=app.feeder](https://play.google.com/store/apps/details?id=app.feeder)
-
-3. Ask Bob
-
-   - Play Store : [https://play.google.com/store/apps/details?id=com.askbob.askbob](https://play.google.com/store/apps/details?id=com.askbob.askbob)
-   - Apple Store : [https://apps.apple.com/us/app/ask-bob/id1669654176](https://apps.apple.com/us/app/ask-bob/id1669654176)
-
-4. AdScope
-   - Play Store : [https://play.google.com/store/apps/details?id=com.adscope](https://play.google.com/store/apps/details?id=com.adscope)
-   - Apple Store : [https://apps.apple.com/in/app/adscope-app/id1625457823](https://apps.apple.com/in/app/adscope-app/id1625457823)
-
----
-
 ### <img src="https://komarev.com/ghpvc/?username=vvvirani" alt="vvvirani" />
