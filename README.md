@@ -3,19 +3,19 @@
 # I'm Vishal Virani,
 
 - Excellent Knowledge of Hybrid Mobile Application Development (Flutter)
-- Extensive skill in Google Map API, Current Location, 
+- Extensive skill in Google Map API and Current Location
 - Good experience in Git, Github, Gitlab, Bitbucket and Trello
-- Implemented Firebase, & One Signal Push notification
+- Implemented Firebase & One Signal Push notification
 - Implemented Webrtc SDK for Video Calling and Live Video Features
 - Have knowledge of Analytics with event & Deep Linking
 - Expert in Sqlite database, Preferences, and data management
-- Social API integration: Twitter, Facebook, Dropbox, Google APIs (maps, places), Instagram.
+- Social API integration: Twitter, Facebook, Dropbox, Google APIs (maps, places), Instagram
 - Payment Gateway: Razor Pay, Paypal, Stripe, Amazon Payfort, Paytm, Moyasar
-- RESTful API / Web services Development and integration (JSON, XML, REST API)
+- RESTful API / Web services Development & integration (JSON, XML, REST API)
 - In-App Purchase, In-App Subscription (Google Pay), Testflight, App Store Connect, Play Console
 - Ensure the Performance, Quality, and Responsiveness of Applications
 - Slack/Zoom/Skype
-- Experience in Barcode QR Code Scanner
+- Experience in Barcode & QR Code Scanner
 - Debug & Tracking Activity
 
 ### 🌐 Socials :
