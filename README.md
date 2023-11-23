@@ -2,63 +2,21 @@
 
 # I'm Vishal Virani,
 
-```typescript
-const vvvirani = {
-  pronouns: "He" | "Him",
-  language: ["Dart", "Kotlin", "Swift", "Javascript", "Typescript"],
-  frameworks_and_libraries: [
-    "Node.js",
-    "Flutter",
-    "Android",
-    "iOS",
-    "Material UI",
-  ],
-  database: ["Firebase"],
-  text_editor_software_or_code: [
-    "Android Studio",
-    "Visual Studio Code",
-    "Xcode",
-  ],
-};
-```
-
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Typescript**
-- 🤔 I’m looking for help with Exploring New Technologies.
-- 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: Email - **vvvirani@gmail.com**
-- 😄 Pronouns: He/His
-
-## My values
-
-- 💖 Safety and trust<br>
-- 🙌 Shared norms<br>
-- 🍏 Beginner's mindset and curiosity<br>
-- 🚀 Elevate the underrepresented
-
-
-I'm an accomplished professional with over more than 3 years of dedicated experience in cross-platform development using **Flutter**. My expertise lies in harnessing state management tools like **Provider**, **Bloc**, **Riverpod**, and **Getx** packages to create seamless user experiences. Additionally, I've demonstrated proficiency in building plugins and packages in Native Languages (**Kotlin** and **Swift**).
-
-Throughout my career, I've successfully delivered a diverse range of applications, catering to the specific needs of my business clients. Not only have I met their high standards, but I've also developed my own products, showcasing my commitment to innovation.
-
-My primary objective is to ensure client and customer satisfaction, which has been the driving force behind my work. Here's a snapshot of my skills:
-
-- Proficient in MethodChannel and EventChannel handling for plugin development
-- Expertise in database synchronization, including custom back-end sync and iCloud sync
-- Extensive experience with JSON-based REST APIs, encompassing both 3rd party and custom back-end APIs
-- Adept at local data storage utilizing Core Data, FileManager, and UserDefaults
-- Integration prowess with mapping technologies such as Google Maps and Core Location (GPS), as well as various Google APIs
-- Comprehensive knowledge of core animations for enhanced user experiences
-- Backend proficiency with Firebase, ensuring robust application functionality
-- Multilingual support through localization implementation
-- Capability to provide multi-theme support, customizing the app's look and feel
-- Specialized in QR and barcode scanning and generation
-- Seamless integration with various social networks for streamlined user authentication (Facebook, Google, Youtube, Apple, Instagram, Likedin, Twitter etc.)
-- Expertise in payment integration, encompassing platforms like Razorpay, Stripe, Amazon Payfort, Apply Pay, Google Pay, PayTM, Paypal, Moyasar etc.
-- Proficient in incorporating ad networks and analytics solutions (AdMob, AppLovin, AdColony, Facebook, StartApp, Firebase Crashlytics, Firebase   Analytics, etc.)
-- Familiarity with cryptocurrency functionalities, including BTC and ETH
-
-If you're looking to develop an app that truly resonates with users, I'm here to bring your vision to life. Feel free to reach out, and let's create something exceptional!
+- Excellent Knowledge of Hybrid Mobile Application Development (Flutter)
+- Extensive skill in Google Map API, Current Location, 
+- Good experience in Git, Github, Gitlab, Bitbucket and Trello
+- Implemented Firebase, & One Signal Push notification
+- Implemented Webrtc SDK for Video Calling and Live Video Features
+- Have knowledge of Analytics with event & Deep Linking
+- Expert in Sqlite database, Preferences, and data management
+- Social API integration: Twitter, Facebook, Dropbox, Google APIs (maps, places), Instagram.
+- Payment Gateway: Razor Pay, Paypal, Stripe, Amazon Payfort, Paytm, Moyasar
+- RESTful API / Web services Development and integration (JSON, XML, REST API)
+- In-App Purchase, In-App Subscription (Google Pay), Testflight, App Store Connect, Play Console
+- Ensure the Performance, Quality, and Responsiveness of Applications
+- Slack/Zoom/Skype
+- Experience in Barcode QR Code Scanner
+- Debug & Tracking Activity
 
 ### 🌐 Socials :
 
@@ -105,6 +63,9 @@ If you're looking to develop an app that truly resonates with users, I'm here to
 </a>
 <a href="https://github.com/vvvirani/audio_trimmer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=audio_trimmer&hide_border=true&theme=radical" />
+</a>
+<a href="https://github.com/vvvirani/flutter_stripe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_stripe&hide_border=true&theme=radical" />
 </a>
 <!-- <a href="https://github.com/vvvirani/flutter_ok_http_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_ok_http_client&hide_border=true&theme=radical" />
