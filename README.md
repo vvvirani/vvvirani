@@ -55,11 +55,12 @@
 ## 📕 Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/vvvirani/pdf_merger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=pdf_merger&hide_border=true&theme=radical" />
-</a>
+
 <a href="https://github.com/vvvirani/flutter_amazon_payfort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_amazon_payfort&hide_border=true&theme=radical" />
+</a>
+<a href="https://github.com/vvvirani/flutter_dyscan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_dyscan&hide_border=true&theme=radical" />
 </a>
 <a href="https://github.com/vvvirani/audio_trimmer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=audio_trimmer&hide_border=true&theme=radical" />
@@ -67,6 +68,10 @@
 <a href="https://github.com/vvvirani/flutter_stripe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_stripe&hide_border=true&theme=radical" />
 </a>
+<a href="https://github.com/vvvirani/pdf_merger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=pdf_merger&hide_border=true&theme=radical" />
+</a>
+
 <!-- <a href="https://github.com/vvvirani/flutter_ok_http_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvvirani&repo=flutter_ok_http_client&hide_border=true&theme=radical" />
 </a>
