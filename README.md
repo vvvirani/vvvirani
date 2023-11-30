@@ -1,22 +1,22 @@
 #### What if the universe is just code? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# I'm Vishal Virani,
+# I'm Vishal Virani.
 
 - Excellent Knowledge of Hybrid Mobile Application Development (Flutter)
 - Extensive skill in Google Map API and Current Location
-- Good experience in Git, Github, Gitlab, Bitbucket and Trello
-- Implemented Firebase & One Signal Push notification
-- Implemented Webrtc SDK for Video Calling and Live Video Features
-- Have knowledge of Analytics with event & Deep Linking
+- Good experience in Git, Github, Gitlab, Bitbucket, and Trello
+- Implemented Firebase and One Signal Push Notification
+- Implemented WebRTC SDK for Video Calling and Live Video Features
+- Have knowledge of Analytics with the event and Deep Linking
 - Expert in Sqlite database, Preferences, and data management
 - Social API integration: Twitter, Facebook, Dropbox, Google APIs (maps, places), Instagram
 - Payment Gateway: Razor Pay, Paypal, Stripe, Amazon Payfort, Paytm, Moyasar
-- RESTful API / Web services Development & integration (JSON, XML, REST API)
+- RESTful API / Web services Development and integration (JSON, XML, REST API)
 - In-App Purchase, In-App Subscription (Google Pay), Testflight, App Store Connect, Play Console
 - Ensure the Performance, Quality, and Responsiveness of Applications
 - Slack/Zoom/Skype
 - Experience in Barcode & QR Code Scanner
-- Debug & Tracking Activity
+- Debugging and Tracking Activity
 
 ### 🌐 Socials :
 
