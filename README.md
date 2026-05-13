@@ -45,20 +45,24 @@ I enjoy turning ideas into high-performance mobile applications with clean archi
 
 ## 🛠️ Technical Skills
 
-### Mobile Development
+### 📱 Mobile Development
 
-* Flutter
-* Dart
-* Kotlin
-* Swift
+* <a href="https://flutter.dev/">Flutter</a>
+* <a href="https://dart.dev/">Dart</a>
+* <a href="https://kotlinlang.org/">Kotlin</a>
+* <a href="https://developer.apple.com/swift/">Swift</a>
 
-### Backend & APIs
+---
 
-* Supabase
-* Firebase
-* Node.js
-* REST API
-* WebSocket / Socket.io
+### ⚙️ Backend & APIs
+
+* <a href="https://supabase.com/">Supabase</a>
+* <a href="https://firebase.google.com/">Firebase</a>
+* <a href="https://nodejs.org/">Node.js</a>
+* <a href="https://restfulapi.net/">REST API</a>
+* <a href="https://socket.io/">WebSocket / Socket.io</a>
+
+---
 
 ### 💳 Payments
 
@@ -84,7 +88,6 @@ I enjoy turning ideas into high-performance mobile applications with clean archi
 * <a href="https://appstoreconnect.apple.com/">App Store Connect</a>
 * <a href="https://play.google.com/console/">Play Console</a>
 * <a href="https://developer.apple.com/testflight/">TestFlight</a>
-
 
 ---
 
