@@ -60,28 +60,31 @@ I enjoy turning ideas into high-performance mobile applications with clean archi
 * REST API
 * WebSocket / Socket.io
 
-### Payments
+### 💳 Payments
 
-* Stripe
-* Razorpay
-* Paypal
-* Amazon Payfort
-* Paytm
-* Moyasar
-* Paddle
-* Lemon Squeezy
-* Cashfree
+* <a href="https://stripe.com/">Stripe</a>
+* <a href="https://razorpay.com/">Razorpay</a>
+* <a href="https://www.paypal.com/">Paypal</a>
+* <a href="https://paymentservices.amazon.com/">Amazon Payfort</a>
+* <a href="https://paytm.com/">Paytm</a>
+* <a href="https://moyasar.com/">Moyasar</a>
+* <a href="https://www.paddle.com/">Paddle</a>
+* <a href="https://www.lemonsqueezy.com/">Lemon Squeezy</a>
+* <a href="https://www.cashfree.com/">Cashfree</a>
 
-### Tools & Platforms
+---
 
-* Git / GitHub / GitLab / Bitbucket
-* Jira / Trello
-* Figma
-* Postman / Swagger
-* Google Cloud
-* App Store Connect
-* Play Console
-* TestFlight
+### 🛠️ Tools & Platforms
+
+* <a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a> / <a href="https://about.gitlab.com/">GitLab</a> / <a href="https://bitbucket.org/">Bitbucket</a>
+* <a href="https://www.atlassian.com/software/jira">Jira</a> / <a href="https://trello.com/">Trello</a>
+* <a href="https://www.figma.com/">Figma</a>
+* <a href="https://www.postman.com/">Postman</a> / <a href="https://swagger.io/">Swagger</a>
+* <a href="https://cloud.google.com/">Google Cloud</a>
+* <a href="https://appstoreconnect.apple.com/">App Store Connect</a>
+* <a href="https://play.google.com/console/">Play Console</a>
+* <a href="https://developer.apple.com/testflight/">TestFlight</a>
+
 
 ---
 
